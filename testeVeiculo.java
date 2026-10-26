@@ -1,4 +1,4 @@
-package exerciciosprova;
+package estudarprovajava;
 import java.util.Scanner;
 public class testeVeiculo {
 
